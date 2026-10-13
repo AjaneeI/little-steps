@@ -53,6 +53,8 @@ Little Steps organizes that information into a structured learning path spanning
 - **PostgreSQL Row-Level Security policies** are designed to scope family data to authorized members at the database boundary.
 - **Shared progress views** help partners coordinate while keeping personal learning records distinct.
 
+![Authenticated Little Steps co-parenting space with the private invitation code hidden](docs/assets/co-parenting-space.gif)
+
 ### Useful with or without an account
 
 - **Guest mode** lowers the barrier to trying the learning experience.
@@ -153,7 +155,7 @@ The test suite is designed around the places where incorrect behavior would be m
 
 ## Product Tour
 
-The screenshots above show the guest learning flow using seeded, non-personal data: onboarding, the week-based dashboard, and immediate quiz feedback. A future authenticated demo should add a short co-parenting GIF that shows invitation rotation and shared completion state without exposing a real account or invite code.
+The screenshots above show onboarding, the week-based dashboard, immediate quiz feedback, and the authenticated co-parenting controls. The invitation code is deliberately hidden in the demo asset so a live credential is never published.
 
 ## Medical Disclaimer
 
